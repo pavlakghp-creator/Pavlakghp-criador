@@ -1,25 +1,30 @@
-👋 Olá, me chamo Bruno Pavlak!
+👋 Olá! Me chamo Bruno Pavlak!
 
-Sou um profissional em transição de carreira para a área de Dados, com foco em Análise de Dados com Python. Este perfil reúne projetos desenvolvidos para demonstrar minha evolução técnica, habilidades e aprendizado contínuo.
+Sou um profissional apaixonado por dados e em processo de transição para atuar exclusivamente na área de Análise de Dados. Atualmente já trabalho com dados, conciliando essa atuação com outras responsabilidades, e meu objetivo é direcionar minha carreira integralmente para esse segmento.
 
-🎯 Objetivo
+🎯 Objetivos:
+📊 Evoluir continuamente na área de Dados.
+🚀 Aprimorar meus conhecimentos nas principais ferramentas do mercado.
+⚙️ Desenvolver automações que tornem processos mais eficientes.
+📈 Transformar dados em informações que apoiem a tomada de decisões.
 
-Evoluir profissionalmente na área de dados e atuar exclusivamente como Analista de Dados, transformando dados em informações que apoiem a tomada de decisões.
-
-📚 Formação e Cursos
+🎓 Formação e Cursos:
 Gestão de Recursos Humanos
 Ciência de Dados (cursando)
 Data Driven
 Análise de Dados
-💻 Tecnologias
-Python
-SQL
-R
-Git & GitHub
-Microsoft 365
-Excel
-Power BI
-Qlik Cloud
-🚀 Sobre este perfil
 
-Aqui você encontrará projetos de Análise de Dados com Python, envolvendo tratamento, exploração, visualização e análise de dados, refletindo minha jornada de aprendizado e desenvolvimento na área.
+💻 Tecnologias:
+🐍 Python
+🗄️ SQL
+📐 R
+🌿 Git & GitHub
+📊 Excel
+📈 Power BI
+☁️ Qlik Cloud
+🏢 Microsoft 365
+📂 Sobre este perfil
+
+Este perfil foi criado para compartilhar meus projetos, estudos e experiências em Análise de Dados com Python. Aqui você encontrará exemplos práticos de manipulação, tratamento, análise e visualização de dados, demonstrando minha evolução técnica e meu compromisso com o aprendizado contínuo.
+
+Obrigado pela visita! 😊
